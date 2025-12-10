@@ -1,10 +1,13 @@
+using BlazorMovieReview;
+using BlazorMovieReview.Services;
 using BlazorMovieReview.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddRazorComponents()
-    .AddInteractiveServerComponents();
+builder.Services.AddRazorComponents().AddInteractiveServerComponents();
+
+builder.Services.AddScoped<IMovieReviewService, MovieReviewService>(); /// Dependency injection for index
 
 var app = builder.Build();
 

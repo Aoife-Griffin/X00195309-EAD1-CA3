@@ -51,11 +51,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\BlazorMovieReview.csproj",
+      "projectUniqueName": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\X00195309-EAD1-CA3\\BlazorMovieReview\\BlazorMovieReview.csproj",
       "projectName": "BlazorMovieReview",
-      "projectPath": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\BlazorMovieReview.csproj",
+      "projectPath": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\X00195309-EAD1-CA3\\BlazorMovieReview\\BlazorMovieReview.csproj",
       "packagesPath": "C:\\Users\\Aoife\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\obj\\",
+      "outputPath": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\X00195309-EAD1-CA3\\BlazorMovieReview\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
