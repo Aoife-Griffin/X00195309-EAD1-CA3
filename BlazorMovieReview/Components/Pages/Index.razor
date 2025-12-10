@@ -1,11 +1,10 @@
 @page "/"
 @attribute [StreamRendering(true)]
-@using BlazorMovieReview.Models
-@using BlazorMovieReview.Services
+@* @attribute [RenderModeServer] *@
 @inject IMovieReviewService MovieReviewService
 
 
-<PageTitle>Index</PageTitle>
+<PageTitle>Movie Reviews</PageTitle>
 
 <h1>Movies</h1>
 
@@ -21,22 +20,12 @@ else
         MovieModel[] movieGroup = Movies.Skip(x * 4).Take(4).ToArray();
 
         <div class="row">
-
+           
+            
             @foreach (MovieModel movie in movieGroup)
             {
-                <div class="col-md-3 mb-2">
-                    <a href="/MovieReview/@movie?.Id">
-                        <img class="img-thumbnail" src="@movie?.ImageUrl" />
-                        <div class="card-body">
-                            <h5>
-                                @movie?.Title
-                            </h5>
-                            <p class="card-text">
-                                <b>@movie?.Description</b>
-                            </p>
-                        </div>
-                        </a>
-                </div>
+                /// Call Child component (MovieItem)
+                <MovieItem Movie ="@movie" />
 
             }
 
