@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|c:\\users\\aoife\\onedrive - technological university dublin\\blazormoviereview\\services\\moviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|solutionrelative:services\\moviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|c:\\users\\aoife\\onedrive - technological university dublin\\blazormoviereview\\services\\imoviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|solutionrelative:services\\imoviereviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|c:\\users\\aoife\\onedrive - technological university dublin\\blazormoviereview\\blazormoviereview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|solutionrelative:blazormoviereview.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|c:\\users\\aoife\\onedrive - technological university dublin\\blazormoviereview\\models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BCE7A4-A7DE-4941-88DD-88B259BE3A04}|BlazorMovieReview.csproj|solutionrelative:models\\moviemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\Services\\MovieReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\MovieReviewService.cs",
+              "ToolTip": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\Services\\MovieReviewService.cs",
+              "RelativeToolTip": "Services\\MovieReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAACYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:30:19.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMovieReviewService.cs",
+              "DocumentMoniker": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\Services\\IMovieReviewService.cs",
+              "RelativeDocumentMoniker": "Services\\IMovieReviewService.cs",
+              "ToolTip": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\Services\\IMovieReviewService.cs",
+              "RelativeToolTip": "Services\\IMovieReviewService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:28:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieModel.cs",
+              "DocumentMoniker": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\Models\\MovieModel.cs",
+              "RelativeDocumentMoniker": "Models\\MovieModel.cs",
+              "ToolTip": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\Models\\MovieModel.cs",
+              "RelativeToolTip": "Models\\MovieModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-10T15:24:31.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlazorMovieReview",
+              "DocumentMoniker": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\BlazorMovieReview.csproj",
+              "RelativeDocumentMoniker": "BlazorMovieReview.csproj",
+              "ToolTip": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\BlazorMovieReview.csproj",
+              "RelativeToolTip": "BlazorMovieReview.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-10T15:23:15.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

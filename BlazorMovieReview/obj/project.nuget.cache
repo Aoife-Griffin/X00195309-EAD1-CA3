@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UO4sU0VyTI4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aoife\\OneDrive - Technological University Dublin\\BlazorMovieReview\\BlazorMovieReview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aoife\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.1\\microsoft.aspnetcore.app.internal.assets.10.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
