@@ -1,4 +1,5 @@
 @page "/"
+@rendermode InteractiveServer
 @attribute [StreamRendering(true)]
 @* @attribute [RenderModeServer] *@
 @inject IMovieReviewService MovieReviewService
@@ -8,6 +9,7 @@
 
 <h1>Movies</h1>
 
+
 @if(Movies is null)
 {
     <h3>Loading...</h3>
@@ -15,7 +17,7 @@
 else
 {
     ///Display the movies in a grid 
-    @for (int x = 0; x <= Movies.Count / 4; x++) //Divide the movies up by 4
+    @for (int x = 0; x <= Movies.Count / 4; x++) //Divide the movies up by 3
     {
         MovieModel[] movieGroup = Movies.Skip(x * 4).Take(4).ToArray();
 
@@ -37,6 +39,8 @@ else
 
 @code{
     List<MovieModel>? Movies = null;
+
+
 
     protected override async Task OnInitializedAsync()
     {

@@ -4,10 +4,21 @@ using BlazorMovieReview.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
+var MyAllowSpecificOrigin = "_myAllowSpecificOrigins";
+
 // Add services to the container.
 builder.Services.AddRazorComponents().AddInteractiveServerComponents();
 
 builder.Services.AddScoped<IMovieReviewService, MovieReviewService>(); /// Dependency injection for index
+
+builder.Services.AddCors(options => {
+    options.AddPolicy(MyAllowSpecificOrigin,
+                     policy => {
+                         policy.WithOrigins("http://localhost:5046")
+                             .AllowAnyHeader()
+                             .AllowAnyMethod();
+                     });
+});
 
 var app = builder.Build();
 
