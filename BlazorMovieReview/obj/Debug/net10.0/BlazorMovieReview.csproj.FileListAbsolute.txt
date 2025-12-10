@@ -15,7 +15,6 @@ C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\Bla
 C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\BlazorMovieReview\obj\Debug\net10.0\BlazorMovieReview.AssemblyInfo.cs
 C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\BlazorMovieReview\obj\Debug\net10.0\BlazorMovieReview.csproj.CoreCompileInputs.cache
 C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\BlazorMovieReview\obj\Debug\net10.0\BlazorMovieReview.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\BlazorMovieReview\obj\Debug\net10.0\BlazorMovieReview.sourcelink.json
 C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\BlazorMovieReview\obj\Debug\net10.0\rjimswa.dswa.cache.json
 C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\BlazorMovieReview\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
 C:\Users\Aoife\OneDrive - Technological University Dublin\X00195309-EAD1-CA3\BlazorMovieReview\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
